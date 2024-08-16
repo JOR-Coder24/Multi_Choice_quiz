@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Debug (Launch)",
+        "request": "launch",
+        "mainClass": "com.example.quizapp.QuizApp",
+        "projectName": "QuizApp",
+        "classpath": [
+          "lib/*",
+          "bin"
+        ]
+      }
+    ]
+  }
+  
