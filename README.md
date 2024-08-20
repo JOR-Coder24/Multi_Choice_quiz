@@ -14,3 +14,6 @@ javac -cp .;path/to/poi.jar;path/to/poi-ooxml.jar QuizApp.java
 
 Run the compiled QuizApp:
 java -cp .;path/to/poi.jar;path/to/poi-ooxml.jar QuizApp
+
+
+Have also made a python translation which also allows the user to choose number of questions and has random selection of questions
